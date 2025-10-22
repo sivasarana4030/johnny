@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - Cíle pečlivě, vyhni se rukojmím!"
+    },
+    "extensionDescription": {
+        "message": "Připoj se k Johnny Triggerovi v této akční plošinovce. Cíle, střílej a zachraň rukojmí ve vzrušujících úrovních!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Hraj více her"
+    },
+    "pinGuideText": {
+        "message": "Jednoduše to připni, abys mohl hrát tuto hru kdykoliv!"
+    },
+    "pinGuideDone": {
+        "message": "Hotovo"
+    },
+    "commentRemind": {
+        "message": "Baví tě naše hra? Zvaž ohodnocení!"
+    },
+    "rateNow": {
+        "message": "Ohodnoť nyní 👍"
+    },
+    "noThanks": {
+        "message": "Ne, děkuji"
+    }
+}

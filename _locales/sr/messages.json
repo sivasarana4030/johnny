@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - Pucaj pažljivo, izbegni taoce!"
+    },
+    "extensionDescription": {
+        "message": "Pridruži se Johnny Trigger-u u ovom akcijom ispunjenom platformskom pucačem. Ciljaj, pucaj i spasi taoce na uzbudljivim nivoima!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Igraj još igrica"
+    },
+    "pinGuideText": {
+        "message": "Samo zakači da igraš ovu igru u bilo koje vreme!"
+    },
+    "pinGuideDone": {
+        "message": "Završeno"
+    },
+    "commentRemind": {
+        "message": "Uživate u našoj igri? Molimo vas da razmislite o oceni!"
+    },
+    "rateNow": {
+        "message": "Oceni sada 👍"
+    },
+    "noThanks": {
+        "message": "Ne hvala"
+    }
+}

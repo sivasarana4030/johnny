@@ -1,0 +1,121 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script defer type="module" src="/js/game.js"></script>
+</head>
+
+
+<body>
+    <div class="container">
+        <div class="recommend-box recommend-box-1" style="margin-right: 20px;">
+
+        </div>
+        <main>
+            <div class="guide" id="guide">
+                <div class="guide-item">
+                    <img class="guide-arrow-icon" src="/images/arrow.png" alt="">
+                </div>
+                <div class="guide-item guide-item-1">
+                    Click
+                    <img class="guide-ext-icon" src="/images/ext.png" alt="">
+                </div>
+                <div class="guide-item-line"></div>
+                <div class="guide-item guide-item-2">
+                    <li class="guide-item-li">
+                        <div class="guide-ext-icon-2"></div>
+                        <div class="guide-extname"></div>
+                        <img class="guide-ext-icon-3" src="/images/pin.png" alt="">
+                    </li>
+                    <li class="guide-item-li">
+                        <div class="guide-ext-icon-2"></div>
+                        <div class="guide-extname"></div>
+                        <img class="guide-ext-icon-3" src="/images/pin.png" alt="">
+                    </li>
+                    <li class="guide-item-li">
+                        <div class="guide-ext-icon-2"></div>
+                        <div class="guide-extname"></div>
+                        <img class="guide-ext-icon-3" src="/images/pin.png" alt="">
+                    </li>
+                    <li class="guide-item-li">
+                        <img class="guide-ext-icon-2" src="/icon/128.png" alt="">
+                        <div id="game-title" class="guide-extname"></div>
+                        <img class="guide-ext-icon-3" src="/images/pined.png" alt="">
+                    </li>
+                </div>
+                <div class="guide-item-line"></div>
+                <div class="guide-item guide-item-3">
+                    <img class="guide-ext-icon-3" style="width: 18px; height: 16px;" src="/images/pin.png" alt="">
+                    <span id="guide-item-text" class="guide-item-text-span">
+
+                    </span>
+                </div>
+                <div class="guide-item-done">
+                    <button id="guide-item-done-button" class="guide-item-done-button"></button>
+                </div>
+
+            </div>
+            <div class="game-contain">
+                <div id="game-play-box" class="game-play-box">
+                    <div class="iframe-outer">
+                        <div id="loading">
+                            <div class="loader"></div>
+                        </div>
+                        <iframe class="game-iframe" id="gameFrame" src=""
+                            allow="autoplay;camera;payment;gamepad;keyboard-map *;xr-spatial-tracking;clipboard-write;web-share;magnetometer;gyroscope;display-capture;fullscreen;microphone;screen-wake-lock;clipboard-read;accelerometer;"
+                            frameborder="0"></iframe>
+                    </div>
+                    <div class="game-play-bottom">
+                        <div class="game-play-bottom-left">
+                            <img class="game-play-bottom-left-icon" src="/icon/128.png">
+                            <div class="game-play-bottom-left-text">
+                                <span id="game-left-title" class="game-play-bottom-left-text-title"></span>
+                            </div>
+                        </div>
+                        <div class="game-play-bottom-right">
+                            <div class="game-play-icon game-play-icon-web-full" id="game-play-icon-web-full"
+                                title="Web Full"></div>
+                            <div id="game-play-icon-full-screen" class="game-play-icon game-play-icon-full-screen"
+                                title="Fullscreen"></div>
+                        </div>
+                    </div>
+                    <div class="game-item-more-box">
+                        <div id="game-item-more" class="game-item-more">
+                            <img class="game-item-more-icon" src="/images/game-icon/0.png" alt="Play More Games">
+                            <div id="game-item-more-content" class="game-item-more-content">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <div class="recommend-box recommend-box-2" style="margin-left: 20px;">
+
+        </div>
+    </div>
+
+    <!-- 评分弹窗 -->
+    <div class="rating-modal" id="rating-modal">
+        <div class="rating-container">
+            <img src="/icon/128.png" alt="Game Icon" class="rating-icon">
+            <div class="rating-title" id="rating-title"></div>
+            <div class="rating-stars">
+                <span class="rating-star" data-value="1">★</span>
+                <span class="rating-star" data-value="2">★</span>
+                <span class="rating-star" data-value="3">★</span>
+                <span class="rating-star" data-value="4">★</span>
+                <span class="rating-star" data-value="5">★</span>
+            </div>
+            <div class="rating-buttons">
+                <button class="rating-btn rating-btn-secondary" id="rating-btn-cancel"></button>
+                <button class="rating-btn rating-btn-primary" id="rating-btn-submit"></button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

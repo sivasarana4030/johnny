@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Akčný strelec, vyhnite sa rukojemníkom!"
+    },
+    "extensionDescription": {
+        "message": "Pridajte sa k Johnny Triggerovi! Cieľte, strieľajte a zachráňte rukojemníkov v vzrušujúcich úrovniach!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Hrajte viac hier"
+    },
+    "pinGuideText": {
+        "message": "Proste to pripnite a hrajte túto hru kedykoľvek!"
+    },
+    "pinGuideDone": {
+        "message": "Hotovo"
+    },
+    "commentRemind": {
+        "message": "Páči sa vám naša hra? Zvážte, prosím, ohodnotenie!"
+    },
+    "rateNow": {
+        "message": "Hodnotiť teraz 👍"
+    },
+    "noThanks": {
+        "message": "Nie, ďakujem"
+    }
+}

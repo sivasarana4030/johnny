@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Aksiyon Shooter: Nişan al, rehineleri koru!"
+    },
+    "extensionDescription": {
+        "message": "Johnny Trigger ile bu aksiyon dolu nişancı oyununa katılın. Nişan alın, ateş edin ve rehine kurtarın!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Daha Fazla Oyun Oyna"
+    },
+    "pinGuideText": {
+        "message": "Bu oyunu istediğiniz zaman oynamak için sadece sabitleyin!"
+    },
+    "pinGuideDone": {
+        "message": "Tamam"
+    },
+    "commentRemind": {
+        "message": "Oyunumuzu beğendiniz mi? Lütfen bizi değerlendirmeyi düşünün!"
+    },
+    "rateNow": {
+        "message": "Şimdi Değerlendir 👍"
+    },
+    "noThanks": {
+        "message": "Teşekkürler, istemiyorum"
+    }
+}

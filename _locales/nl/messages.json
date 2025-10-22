@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Actieschieter Game - Richt zorgvuldig, vermijd gijzelaars!"
+    },
+    "extensionDescription": {
+        "message": "Sluit je aan bij Johnny Trigger in deze actievolle platformschieter. Richt, schiet en red gijzelaars in spannende levels!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Actieschieter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Actieschieter"
+    },
+    "playMoreGames": {
+        "message": "Speel Meer Spellen"
+    },
+    "pinGuideText": {
+        "message": "Pinn het gewoon om deze game anytime te spelen!"
+    },
+    "pinGuideDone": {
+        "message": "Klaar"
+    },
+    "commentRemind": {
+        "message": "Geniet je van onze game? Overweeg dan om ons te beoordelen!"
+    },
+    "rateNow": {
+        "message": "Beoordeel Nu 👍"
+    },
+    "noThanks": {
+        "message": "Nee Dank je"
+    }
+}

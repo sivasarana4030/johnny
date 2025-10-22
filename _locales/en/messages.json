@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - Aim carefully, avoid hostages!"
+    },
+    "extensionDescription": {
+        "message": "Join Johnny Trigger in this action-packed platform shooter. Aim, shoot, and save hostages in thrilling levels!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Play More Games"
+    },
+    "pinGuideText": {
+        "message": "Just pin it to play this game anytime!"
+    },
+    "pinGuideDone": {
+        "message": "Done"
+    },
+    "commentRemind": {
+        "message": "Enjoying our game? Please consider rating us!"
+    },
+    "rateNow": {
+        "message": "Rate Now 👍"
+    },
+    "noThanks": {
+        "message": "No Thanks"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter : Visez, évitez les otages !"
+    },
+    "extensionDescription": {
+        "message": "Rejoignez Johnny Trigger dans ce jeu de tir plein d'action. Visez, tirez et sauvez des otages dans des niveaux palpitants !"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Jouer à d'autres jeux"
+    },
+    "pinGuideText": {
+        "message": "Épinglez-le pour jouer à ce jeu à tout moment !"
+    },
+    "pinGuideDone": {
+        "message": "Fait"
+    },
+    "commentRemind": {
+        "message": "Vous aimez notre jeu ? Merci de considérer de nous noter !"
+    },
+    "rateNow": {
+        "message": "Évaluez maintenant 👍"
+    },
+    "noThanks": {
+        "message": "Non merci"
+    }
+}

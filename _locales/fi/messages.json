@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter - Huolellisesti, vältä panttivankeja!"
+    },
+    "extensionDescription": {
+        "message": "Liity Johnny Triggerin mukaan tässä toiminnantäyteisessä tasohyppelyssä, ammu ja pelasta panttivankit jännittävissä tasoissa!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Pelaa lisää pelejä"
+    },
+    "pinGuideText": {
+        "message": "Kiinnitä se pelataksesi tätä peliä milloin tahansa!"
+    },
+    "pinGuideDone": {
+        "message": "Valmis"
+    },
+    "commentRemind": {
+        "message": "Nautitko pelistämme? Harkitse arvostelun antamista!"
+    },
+    "rateNow": {
+        "message": "Arvosta nyt 👍"
+    },
+    "noThanks": {
+        "message": "Ei kiitos"
+    }
+}

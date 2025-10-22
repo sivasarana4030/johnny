@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter 游戏 - 小心瞄准，避免伤害人质！"
+    },
+    "extensionDescription": {
+        "message": "加入Johnny Trigger，体验这款动作丰富的平台射击游戏。在刺激的关卡中瞄准、射击，拯救人质！"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "玩更多游戏"
+    },
+    "pinGuideText": {
+        "message": "只需固定它，随时玩这款游戏！"
+    },
+    "pinGuideDone": {
+        "message": "完成"
+    },
+    "commentRemind": {
+        "message": "喜欢我们的游戏吗？请考虑给我们评分！"
+    },
+    "rateNow": {
+        "message": "立即评分 👍"
+    },
+    "noThanks": {
+        "message": "不，谢谢"
+    }
+}

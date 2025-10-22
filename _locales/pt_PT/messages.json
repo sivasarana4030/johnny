@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - Mire com cuidado, evite reféns!"
+    },
+    "extensionDescription": {
+        "message": "Junte-se a Johnny Trigger neste shooter de plataforma repleto de ação. Mire, atire e salve reféns em níveis emocionantes!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Jogar Mais Jogos"
+    },
+    "pinGuideText": {
+        "message": "Apenas fixe para jogar este jogo a qualquer hora!"
+    },
+    "pinGuideDone": {
+        "message": "Feito"
+    },
+    "commentRemind": {
+        "message": "Está a gostar do nosso jogo? Por favor, considere avaliar-nos!"
+    },
+    "rateNow": {
+        "message": "Avaliar Agora 👍"
+    },
+    "noThanks": {
+        "message": "Não, Obrigado"
+    }
+}

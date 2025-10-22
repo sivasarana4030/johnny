@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - Sikt nøye, unngå gisler!"
+    },
+    "extensionDescription": {
+        "message": "Bli med Johnny Trigger i denne actionfylte plattform skytespillet. Sikt, skyt og redd gisler i spennende nivåer!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Spill Flere Spill"
+    },
+    "pinGuideText": {
+        "message": "Bare fest det for å spille dette spillet når som helst!"
+    },
+    "pinGuideDone": {
+        "message": "Ferdig"
+    },
+    "commentRemind": {
+        "message": "Liker du spillet vårt? Vennligst vurder oss!"
+    },
+    "rateNow": {
+        "message": "Vurder Nå 👍"
+    },
+    "noThanks": {
+        "message": "Nei Takk"
+    }
+}

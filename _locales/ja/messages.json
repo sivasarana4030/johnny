@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - 目標を慎重に定め、人質を避けてください！"
+    },
+    "extensionDescription": {
+        "message": "このアクション満載のプラットフォームシューターでジョニー・トリガーに参加してください。狙って撃ち、スリリングなレベルで人質を救いましょう！"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "他のゲームをプレイ"
+    },
+    "pinGuideText": {
+        "message": "いつでもこのゲームをプレイできるようにピン留めしてください！"
+    },
+    "pinGuideDone": {
+        "message": "完了"
+    },
+    "commentRemind": {
+        "message": "ゲームを楽しんでいますか？評価をお願いします！"
+    },
+    "rateNow": {
+        "message": "今すぐ評価 👍"
+    },
+    "noThanks": {
+        "message": "いいえ、結構です"
+    }
+}

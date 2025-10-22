@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter: Zielen, Geiseln vermeiden!"
+    },
+    "extensionDescription": {
+        "message": "Begleite Johnny Trigger in diesem actiongeladenen Plattformer-Shooter. Zielen, schießen und Geiseln in spannenden Levels retten!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Weitere Spiele spielen"
+    },
+    "pinGuideText": {
+        "message": "Heften Sie es einfach an, um dieses Spiel jederzeit zu spielen!"
+    },
+    "pinGuideDone": {
+        "message": "Fertig"
+    },
+    "commentRemind": {
+        "message": "Gefällt Ihnen unser Spiel? Bitte ziehen Sie in Betracht, uns zu bewerten!"
+    },
+    "rateNow": {
+        "message": "Jetzt bewerten 👍"
+    },
+    "noThanks": {
+        "message": "Nein danke"
+    }
+}

@@ -1,0 +1,1 @@
+export default {"domain":"https://offlinegames.fun","cspFixed":true,"iframeSrc":"https://johnny-trigger-action-shooter.codeplaymaster.com/johnny-trigger-action-shooter/gamebox.html","symbolStr":"YXRvLXNvdG4tcGFmci1tbGlseXI","category":"Action","packageName":"johnny-trigger-action-shooter","version":""};

@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Shooter: mira e evita gli ostaggi!"
+    },
+    "extensionDescription": {
+        "message": "Unisciti a Johnny Trigger in questo sparatutto ricco di azione. Mira, spara e salva ostaggi in livelli emozionanti!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Gioca ad altri giochi"
+    },
+    "pinGuideText": {
+        "message": "Basta appuntarlo per giocare a questo gioco in qualsiasi momento!"
+    },
+    "pinGuideDone": {
+        "message": "Fatto"
+    },
+    "commentRemind": {
+        "message": "Ti piace il nostro gioco? Ti preghiamo di considerare di valutare il nostro gioco!"
+    },
+    "rateNow": {
+        "message": "Valuta ora 👍"
+    },
+    "noThanks": {
+        "message": "No grazie"
+    }
+}

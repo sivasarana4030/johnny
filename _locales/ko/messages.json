@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter 게임 - 조준을 조심하고 인질을 피하세요!"
+    },
+    "extensionDescription": {
+        "message": "액션으로 가득 찬 플랫폼 슈터에서 Johnny Trigger와 함께하세요. 조준하고 발사하여 스릴 넘치는 레벨에서 인질을 구하세요!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "더 많은 게임하기"
+    },
+    "pinGuideText": {
+        "message": "언제든지 이 게임을 하려면 고정하세요!"
+    },
+    "pinGuideDone": {
+        "message": "완료"
+    },
+    "commentRemind": {
+        "message": "게임을 즐기고 계신가요? 평가를 고려해 주세요!"
+    },
+    "rateNow": {
+        "message": "지금 평가하기 👍"
+    },
+    "noThanks": {
+        "message": "괜찮습니다"
+    }
+}

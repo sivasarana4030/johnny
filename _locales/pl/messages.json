@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - Action Shooter Game - Celuj ostrożnie, unikaj zakładników!"
+    },
+    "extensionDescription": {
+        "message": "Dołącz do Johnny'ego Triggera w tej pełnej akcji grze platformowej. Celuj, strzelaj i ratuj zakładników w emocjonujących poziomach!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Graj w więcej gier"
+    },
+    "pinGuideText": {
+        "message": "Po prostu przypnij to, aby grać w tę grę w dowolnym momencie!"
+    },
+    "pinGuideDone": {
+        "message": "Gotowe"
+    },
+    "commentRemind": {
+        "message": "Czy podoba Ci się nasza gra? Proszę, rozważ ocenę nas!"
+    },
+    "rateNow": {
+        "message": "Oceń teraz 👍"
+    },
+    "noThanks": {
+        "message": "Nie, dziękuję"
+    }
+}

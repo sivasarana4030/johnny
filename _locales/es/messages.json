@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - ¡Apunta con cuidado, evita rehenes!"
+    },
+    "extensionDescription": {
+        "message": "Únete a Johnny Trigger en este emocionante shooter de plataformas. ¡Apunta, dispara y salva rehenes en niveles emocionantes!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "Jugar Más Juegos"
+    },
+    "pinGuideText": {
+        "message": "¡Solo fíjalo para jugar este juego en cualquier momento!"
+    },
+    "pinGuideDone": {
+        "message": "Hecho"
+    },
+    "commentRemind": {
+        "message": "¿Disfrutando nuestro juego? ¡Por favor, considera darnos una puntuación!"
+    },
+    "rateNow": {
+        "message": "Valora Ahora 👍"
+    },
+    "noThanks": {
+        "message": "No Gracias"
+    }
+}

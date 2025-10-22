@@ -1,0 +1,32 @@
+{
+    "extensionName": {
+        "message": "Johnny Trigger - لعبة shooter العمل - هدف بعناية، تجنب الرهائن!"
+    },
+    "extensionDescription": {
+        "message": "انضم إلى Johnny Trigger في هذه اللعبة المثيرة المليئة بالأكشن. هدف، أطلق النار، وأنقذ الرهائن في مستويات مثيرة!"
+    },
+    "extensionActionTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "extensionGameTitle": {
+        "message": "Johnny Trigger - Action Shooter"
+    },
+    "playMoreGames": {
+        "message": "اللعب في المزيد من الألعاب"
+    },
+    "pinGuideText": {
+        "message": "قم بتثبيته للعب هذه اللعبة في أي وقت!"
+    },
+    "pinGuideDone": {
+        "message": "تم"
+    },
+    "commentRemind": {
+        "message": "هل تستمتع بلعبتنا؟ يرجى التفكير في تقييمنا!"
+    },
+    "rateNow": {
+        "message": "قيم الآن 👍"
+    },
+    "noThanks": {
+        "message": "لا شكرًا"
+    }
+}
